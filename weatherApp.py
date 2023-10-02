@@ -3,7 +3,6 @@ import streamlit as st
 import requests
 from datetime import datetime , timedelta
 import pandas as pd
-import matplotlib
 import time 
 import json
 
